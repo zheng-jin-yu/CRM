@@ -1,0 +1,23 @@
+
+${AnsiColor.BRIGHT_YELLOW}////////////////////////////////////////////////////////////////////
+${AnsiColor.BRIGHT_RED}//                          _ooOoo_                               //
+${AnsiColor.BRIGHT_CYAN}//                         o8888888o                              //
+${AnsiColor.BRIGHT_GREEN}//                         88" . "88                              //
+${AnsiColor.BRIGHT_CYAN}//                         (| ^_^ |)                              //
+${AnsiColor.BRIGHT_MAGENTA}//                         O\  =  /O                              //
+${AnsiColor.BRIGHT_CYAN}//                      ____/`---'\____                           //
+${AnsiColor.BRIGHT_RED}//                    .'  \\|     |//  `.                         //
+${AnsiColor.BRIGHT_CYAN}//                   /  \\|||  :  |||//  \                        //
+${AnsiColor.BRIGHT_YELLOW}//                  /  _||||| -:- |||||-  \                       //
+${AnsiColor.BRIGHT_GREEN}//                  |   | \\\  -  /// |   |                       //
+${AnsiColor.BRIGHT_YELLOW}//                  | \_|  ''\---/''  |   |                       //
+${AnsiColor.BRIGHT_GREEN}//                  \  .-\__  `-`  ___/-. /                       //
+${AnsiColor.BRIGHT_CYAN}//                ___`. .'  /--.--\  `. . ___                     //
+${AnsiColor.BRIGHT_YELLOW}//              ."" '<  `.___\_<|>_/___.'  >'"".                  //
+${AnsiColor.BRIGHT_MAGENTA}//            | | :  `- \`.;`\ _ /`;.`/ - ` : | |                 //
+${AnsiColor.BRIGHT_GREEN}//            \  \ `-.   \_ __\ /__ _/   .-` /  /                 //
+${AnsiColor.BRIGHT_YELLOW}//      ========`-.____`-.___\_____/___.-`____.-'========         //
+${AnsiColor.BRIGHT_CYAN}//                           `=---='                              //
+${AnsiColor.BRIGHT_MAGENTA}//      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^        //
+${AnsiColor.BRIGHT_WHITE}//            佛祖保佑       永不宕机      永无BUG                //
+${AnsiColor.BRIGHT_YELLOW}////////////////////////////////////////////////////////////////////
